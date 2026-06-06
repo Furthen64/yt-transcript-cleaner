@@ -4,7 +4,7 @@ You copy paste the transcript into this app, get a nicer formatted output
 ## Run
 
 ```bash
-dotnet run --project /tmp/workspace/Furthen64/yt-transcript-cleaner/YtTranscriptCleaner/YtTranscriptCleaner.csproj -- --input-path ./raw.txt --output-path ./clean.txt --no-clipboard
+dotnet run --project ./YtTranscriptCleaner/YtTranscriptCleaner.csproj -- --input-path ./raw.txt --output-path ./clean.txt --no-clipboard
 ```
 
 Options:
