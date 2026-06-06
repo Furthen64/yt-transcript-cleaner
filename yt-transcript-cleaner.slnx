@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="YtTranscriptCleaner.Tests/YtTranscriptCleaner.Tests.csproj" />
+  <Project Path="YtTranscriptCleaner/YtTranscriptCleaner.csproj" />
+</Solution>
