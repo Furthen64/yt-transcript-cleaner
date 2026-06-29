@@ -1,0 +1,164 @@
+0:00For 60 years, every attempt to replace silicon  has failed. Graphene, carbon nanotubes,  
+0:077 secondsand dozens of other materials that were supposed  to be the future. None of them made it. But now,  
+0:1212 secondsfor the first time, the semiconductor industry may  have finally picked a successor. A few weeks ago,  
+0:1818 secondsI was there when I presented the new chip roadmap.  And on it, something remarkable happens. Silicon  
+0:2626 secondsstarts disappearing. not from your computer  but from the roadmap itself. And the material  
+0:3131 secondstaking its place is just a few atoms thick. I'm a  chip design engineer and in this episode we will  
+0:3838 secondsexplore a new material that could replace silicon.  The first microchip already running on it and what  
+0:4646 secondsit tells us about the future of computing.  Subscribe to the channel and let me explain.  
+0:5151 secondsFor more than 60 years, the entire computing  industry has been built on a single material,  
+0:5757 secondssilicon. Every smartphone, every  laptop, every AI chip. And yet,  
+1:031 minute, 3 secondssilicon was never supposed to make it this  far. For decades, the semiconductor industry  
+1:091 minute, 9 secondswas obsessed with making transistors smaller.  And every new generation unlocked cheaper and  
+1:161 minute, 16 secondsmore powerful computing. But eventually, we  ran into something we couldn't shrink away.  
+1:211 minute, 21 secondsphysics. As transistors approached atomic  dimensions, strange quantum effects start to  
+1:271 minute, 27 secondsappear, like quantum tunneling. When electrons  behave like waves, which means they can pass  
+1:331 minute, 33 secondsthrough barriers they were never supposed to  cross. They actually started leaking into places  
+1:381 minute, 38 secondsthey were never meant to be. And at the same time,  every new generation became far more expensive  
+1:451 minute, 45 secondsand far more difficult to manufacture. It looked  like the dead end. Yet every time engineers found  
+1:531 minute, 53 secondsanother trick. First transistors stopped being  flat and became finats. Then we figured that we  
+1:591 minute, 59 secondscan wrap the gate all the way around the channel  giving us gate-all-around (GAA) architecture. And  
+2:062 minutes, 6 secondshonestly the result is breathtaking. You're  looking at Intel's first 18A transistor.  
+2:132 minutes, 13 secondsThose tiny horizontal bars are called nanosheets  and they are the pathways where electrons flow.  
+2:202 minutes, 20 secondsThese are only a few dozens nanometers wide and  they engineered to switch faster while leaking  
+2:282 minutes, 28 secondsless current. But it's getting even crazier  if you look underneath. Those darker lines are  
+2:352 minutes, 35 secondsso called Power Via. Instead of delivering  power through the crowded top of the chip,  
+2:412 minutes, 41 secondsIntel roots it from the backside. And this is  two of the hardest problems in modern chip making
+2:482 minutes, 48 secondssolved in the same device. You would think that  there isn't much room left for new ideas. But the  
+2:542 minutes, 54 secondsindustry wasn't done. Now we are building CFETs.  An attempt to build two transistors in the space  
+3:013 minutes, 1 secondof one. Literally stacking one transistor on  top of another. And after that comes even more  
+3:073 minutes, 7 secondsstacking. If you've seen my episode on China's  new scaling law and chip folding, you will  
+3:133 minutes, 13 secondsknow exactly where this story is heading. Every  generation bought silicon a little bit more time.  
+3:193 minutes, 19 secondsBut eventually every trick runs out. And a couple  of weeks ago, I was there when IMEC presented it.  
+3:273 minutes, 27 secondsA new chip roadmap all the way beyond 2040. This  is a roadmap. The next decade looks familiar.  
+3:343 minutes, 34 seconds2nm class chips today. Then the industry moves  towards A7, 7 Angstrom class technology around  
+3:423 minutes, 42 seconds2033 which will be a remarkable milestone. The  first commercial introduction of CFET. But then  
+3:493 minutes, 49 secondssomething strange happens: around 2041 silicon  starts disappearing not from your laptop but  
+3:563 minutes, 56 secondsfrom the transistor itself. Because after decades  of shrinking transistors, if silicon can be made  
+4:034 minutes, 3 secondsany thinner, the only option is a material that  already is. Imagine taking a crystal and peeling  
+4:114 minutes, 11 secondsit apart until only a single atomic layer remains.  That's the promise of 2D semiconductors. The  
+4:174 minutes, 17 secondsleading candidate is a material called molybdenum  disulfide. It's made from one layer of molybdenum  
+4:234 minutes, 23 secondsatoms sandwiched between two layers of sulfur  atoms. just three atom layers in total. Now,  
+4:304 minutes, 30 secondsbefore you ask, it isn't some exotic material.  Molybdenum and sulfur are both relatively abundant  
+4:364 minutes, 36 secondselements. And the material itself is remarkable.  It's just about half a nanometer thick. The  
+4:444 minutes, 44 secondssemiconductor industry has spent decades trying  to make silicon thinner. Molybdenum starts thin.  
+4:504 minutes, 50 secondsThat is its superpower because that gives  engineers something they desperately want,  
+4:564 minutes, 56 secondscontrol. And the thinner the channel, the easier  it is for the transistor gate to control the flow  
+5:015 minutes, 1 secondof electrons. And better control means smaller  and more efficient chips. Here you're looking at  
+5:085 minutes, 8 secondssome of the world's first advanced 2D transistors  built by TSMC, ASML, and IMEC. manufactured using  
+5:175 minutes, 17 secondsEUV lithography on a standard 300 mm wafers. In  other words, the world's leading chip makers have  
+5:245 minutes, 24 secondsalready started building the processes to  make it real. And with every new prototype,  
+5:305 minutes, 30 secondsthe post silicon era moves a little closer. Many  people think this is just about making transistors  
+5:375 minutes, 37 secondssmaller, but it's not. It's all about power.  When the channel is only a few atoms thick, the  
+5:455 minutes, 45 secondstransistor gains extraordinary control over the  electrons flowing through it and that means lower  
+5:525 minutes, 52 secondsoperating voltage. And in semiconductors, lower  voltage is a huge deal. And for materials like  
+5:585 minutes, 58 secondsMolybdenum disulfide, we are targeting roughly  half of operating voltage of modern devices,  
+6:046 minutes, 4 secondswhich could translate into dramatically lower  power consumption. Based on the published papers,  
+6:106 minutes, 10 secondsthese transistors have consumed up to a thousand  times less energy than comparable silicon devices.  
+6:166 minutes, 16 secondsAnd that is why this story is way bigger than  transistor scaling. Right now, AI is pushing  
+6:236 minutes, 23 secondsthe industry into an energy crisis. Data centers  are becoming some of the largest consumers of  
+6:296 minutes, 29 secondselectricity on the planet. The industry doesn't  just need more computing. It needs more computing  
+6:356 minutes, 35 secondsper watt. And that's exactly where atomically  thin semiconductors could make a huge difference.  
+6:426 minutes, 42 secondsBut the story doesn't end there because replacing  silicon might be not the end goal. Building on top  
+6:496 minutes, 49 secondsof it might be. Next, we will look at the first  working processor built on this technology and for  
+6:566 minutes, 56 secondsthe first time see what a post silicon computer  might actually look like. But before that,  
+7:027 minutes, 2 secondsrecently I've been using the Anker's Prime  charger, the world's most compact 160 watt  
+7:097 minutes, 9 secondsmultiport charger. And that got me thinking,  is the original charger always the best fit?  
+7:157 minutes, 15 secondsWhen I travel, I'm carrying two laptops, a phone,  an iPad, camera batteries, and other accessories.  
+7:217 minutes, 21 secondsNormally, that means several chargers and a mass  of cables in my bag. The Anker Prime 160 watt  
+7:277 minutes, 27 secondsreplaces all of that with a single charger. It has  3 USBC ports, so I can charge multiple devices at  
+7:357 minutes, 35 secondsthe same time. And if I need to power something  demanding, like my MacBook Pro laptop, it can  
+7:407 minutes, 40 secondsdeliver up to 140 W from a single port. What's  interesting is how Anker manages to pack all that  
+7:477 minutes, 47 secondspower in such a compact device. The key technology  is based on GaN or gallium nitrite. It wastes less  
+7:547 minutes, 54 secondsenergy as heat than traditional silicon. But  what really matters is how Anker engineers it.  
+8:018 minutes, 1 secondWith GaN Prime 2.0 and its M-Buck architecture,  Anker reduces inductor size to one quarter of  
+8:078 minutes, 7 secondstraditional designs. On top of that, Power IQ 5.0  intelligently balances power between connected  
+8:148 minutes, 14 secondsdevices, automatically reallocating unused wattage  where it's needed most. And Active Shield 4.0  
+8:208 minutes, 20 secondsmonitors temperature more than 10 million times  per day to help prevent overheating. And the  
+8:268 minutes, 26 secondsbuilt-in display shows exactly how much power each  connected device is drawing in real time. I travel  
+8:328 minutes, 32 secondsa lot and this one charger replaces for me a bag  full of chargers. If you want to learn more, Anker  
+8:398 minutes, 39 secondsis running 'Ask Me Anker-Thing' series. The link  is below. But road maps are just plans. Building a  
+8:478 minutes, 47 secondsworking processor is something else entirely. And  that's where the story gets interesting. For more  
+8:548 minutes, 54 secondsthan a decade, researchers were showing individual  demonstrations, individual 2D transistors in labs.  
+9:009 minutesAlways the question was obvious. Can you build  a real computer with this material? And can it  
+9:079 minutes, 7 secondsrun crisis? Now we have an answer. Have a look at  this new chip from China. It's the world's most  
+9:149 minutes, 14 secondsadvanced processor built from a 2D semiconductor.  The chip contains 6,000 transistors, each with  
+9:219 minutes, 21 secondsa channel just three atoms thick, built from  Molybdenum disulfide. 6,000 transistors? Well,  
+9:289 minutes, 28 secondsat the first glance, that sounds tiny and a bit  disappointing because a modern NVIDIA GPU like  
+9:349 minutes, 34 secondsRubin GPU contains over 300 billion transistors.  But the legendary Intel's first microprocessor,  
+9:429 minutes, 42 secondsthe 4004, contains just 2300 transistors. And  unlike the 4004 whose transistors were measured  
+9:509 minutes, 50 secondsin micrometers, the active material in this  processor is only three atoms thick. But it's  
+9:569 minutes, 56 secondsa real processor built around open- source risk  web architecture. So it can execute instructions,  
+10:0210 minutes, 2 secondsperform calculations, and run programs. For  years, researchers showed individual transistors.  
+10:1010 minutes, 10 secondsNow they're showing a working processor and  that changes the conversation because getting  
+10:1610 minutes, 16 secondsone transistor to work to switch on and off is  difficult. But getting thousands of atomically  
+10:2210 minutes, 22 secondsthin transistors to work together is an entirely  different challenge. When your semiconductor is  
+10:2810 minutes, 28 secondsonly a few atoms thick, almost everything can  go wrong. And yet they reported a yield of 99%.  
+10:3610 minutes, 36 secondsIn other words, almost every transistor worked,  which brings us to the real challenge. For years,  
+10:4310 minutes, 43 secondsthe question was, can this atomically thin  transistors work at all? Now, the question  
+10:4910 minutes, 49 secondsis changed. Can this be manufactured at scale?  Because that's where most silicon challengers  
+10:5710 minutes, 57 secondsfailed. The transistor existed. The manufacturing  process didn't. But that may finally starting to  
+11:0411 minutes, 4 secondschange. One of the companies attracting a lot  of attention in this space is CDimension. Their  
+11:1111 minutes, 11 secondsfocus isn't the transistor. It's the material. How  do you grow atomically thin sheets of Molybdenum  
+11:1711 minutes, 17 secondsdisulfide across an entire wafer at industrial  scale? That turns out to be one of the hardest  
+11:2411 minutes, 24 secondschallenges standing between a lab and a mass  scale manufacturing. That may sound simple, but it  
+11:3011 minutes, 30 secondsisn't. Silicon has actually a 60-year head start.  The industry knows how to grow enormous, nearly  
+11:3811 minutes, 38 secondsperfect silicon crystal ingots, slice them into  wafers, and build billions of transistors on top.  
+11:4511 minutes, 45 secondsThis process has been refined for years. But with  2D materials, we are starting from scratch. And  
+11:5211 minutes, 52 secondsMolybdenum disulfide isn't a single element. It's  a compound. Every Molybdenum atom and every sulfur  
+12:0012 minutesatom has to arrive in exactly the right place at  exactly the right time across an entire wafer.  
+12:0612 minutes, 6 secondsImagine painting a football field with a brush  just one atom wide. That's the level of precision  
+12:1212 minutes, 12 secondswe are talking about. And then comes the real  enemy, the grain boundaries. As a material grows,  
+12:1912 minutes, 19 secondstiny crystals form independently. They expand  outward. Eventually, they collide and defects  
+12:2512 minutes, 25 secondsappear. Think of a frozen lake. Ice forms in  different directions and where those patches meet,  
+12:3212 minutes, 32 secondscracks appear. In the semiconductor, those weak  points become defects. And for decades, silicon  
+12:3912 minutes, 39 secondsmanufacturers learned how to eliminate them. 2D  materials haven't. And that's exactly where many  
+12:4512 minutes, 45 secondspromising technologies have failed before. Not  because the transistor didn't work, because the  
+12:5112 minutes, 51 secondsmanufacturing never did. And CDimension believes  it has a solution and the basic idea is quite  
+12:5812 minutes, 58 secondselegant. You flow gases containing molybdenum and  sulfur across a silicon wafer. The atoms react on  
+13:0513 minutes, 5 secondsthe surface and slowly assemble into a crystal  only a few atoms thick. And the challenge here  
+13:1113 minutes, 11 secondsis the temperature. Because traditional methods  require temperatures close to 1,000° C, hot enough  
+13:1813 minutes, 18 secondsto destroy the transistors already sitting  underneath. CDimension claims it can do the  
+13:2413 minutes, 24 secondssame thing at around 200 degrees, low enough that  the silicon underneath survives, which opens the  
+13:3113 minutes, 31 secondsdoor to something much bigger because replacing  silicon might be not the most interesting outcome.  
+13:3813 minutes, 38 secondsBuilding on top of it might be now for the first  time we are touching the idea of true monolithic  
+13:4513 minutes, 45 seconds3D computing. You build a layer of silicon  transistors, then a layer of 2D transistors on  
+13:5213 minutes, 52 secondstop, then another, and another, like constructing  a skyscraper with entire logic layers stacked  
+13:5913 minutes, 59 secondsvertically. And if you watched my previous  episode about Chinese logic folding breakthrough,  
+14:0514 minutes, 5 secondsyou're about to have an 'aha' moment because these  are not two separate stories. It's two different  
+14:1214 minutes, 12 secondsattempts to solve exactly the same problem. For  decades, the semiconductor industry improved chips  
+14:1914 minutes, 19 secondsby shrinking transistors and eventually it started  running out of room. So the industry began moving  
+14:2514 minutes, 25 secondsupward. The first step is CFET. Two transistors  stacked on top of each other. Think of it as  
+14:3214 minutes, 32 secondsadding another floor to their transistor. The  second step is what companies like Huawei and IMEC  
+14:3814 minutes, 38 secondsand TSMC are exploring by stacking logic using  hybrid bonding. Instead of stacking transistors,  
+14:4414 minutes, 44 secondsyou manufacture multiple silicon layers  separately and then connect them with  
+14:5014 minutes, 50 secondsmillions of tiny vertical links. That's what made  Huawei's result so interesting. But Monolithic 3D  
+14:5814 minutes, 58 secondsgoes one step further. Instead of building two  separate logic dies and stacking them together,  
+15:0315 minutes, 3 secondsyou build the transistor layers directly on top  of each other from the beginning, layer by layer  
+15:0915 minutes, 9 secondsinside a single chip. Basically, you have no  bonding interface, just one monolithic 3D chip.  
+15:1715 minutes, 17 secondsIf CFET adds another floor to the transistor and  logic folding adds another floor to the chip. In  
+15:2415 minutes, 24 secondsmonolithic 3D approach, we are building the entire  skyscraper tower with shorter connections and far  
+15:3015 minutes, 30 secondsless energy wasted moving data around. That's why  Intel, TSMC, and the entire chip industry watching  
+15:3815 minutes, 38 secondsit so closely. Not because this material is better  than silicon, but because this is a potential path  
+15:4515 minutes, 45 secondsforward when traditional scaling finally runs  out of road. And that's why so many researchers  
+15:5115 minutes, 51 secondssee it as the end game. And this race is bigger  than a single material. Today, a lot of attention  
+15:5715 minutes, 57 secondsgoes to Molybdenum disulfide, but it isn't a  single 2D material. It isn't running alone.  
+16:0416 minutes, 4 secondsResearch labs including IMEC are also looking into  materials such as tungsten disulfide and tungsten  
+16:1016 minutes, 10 secondsdiselenide. Think of them as members of the same  family. Each has slightly different electrical  
+16:1616 minutes, 16 secondsproperties. Some are better at carrying electrons.  Others are better at carrying the positive charge.  
+16:2316 minutes, 23 secondsBut modern chips need both. So the future may not  belong to a single material, but to a family of  
+16:3016 minutes, 30 secondsatomically thin materials working together. If we  look 15 years ahead, the first 2D semiconductors  
+16:3716 minutes, 37 secondsprobably won't appear inside the CPU or GPU of  your next laptop. New technology rarely arrives  
+16:4416 minutes, 44 secondsright at the top. Usually, it earns it place step  by step. The first commercial applications will be  
+16:5116 minutes, 51 secondslikely much smaller like RF switches for future  6G networks, photonics or MEMS devices. Because  
+16:5916 minutes, 59 secondsthese applications are easier proving grounds and  they don't need billions of perfect transistors,  
+17:0517 minutes, 5 secondsthey can benefit from the material much earlier.  That is how many new technologies enter the  
+17:1317 minutes, 13 secondsmarket. first in specialized applications and only  later at the heart of mainstream computing. It may  
+17:2017 minutes, 20 secondssound slow, but the history suggests otherwise.  Every new breakthrough in semiconductors looked  
+17:2617 minutes, 26 secondsimmature at first. Silicon photonics, superfins,  EUV lithography, all of them spent years in what  
+17:3417 minutes, 34 secondsengineers call the valley of death. And yet,  we eventually made them work. And that's why  
+17:4117 minutes, 41 secondsI find this moment so fascinating because we are  witnessing the first steps into the post silicon  
+17:4717 minutes, 47 secondsera. The moment the industry is seriously  preparing for the life after silicon. If  
+17:5317 minutes, 53 secondsyou enjoyed this episode, share it with your  friend. And now watch this one where I explain   a disruptive technology which will allow us  to shrink an AI data center to the size of a  
+18:0418 minutes, 4 secondsshoe box. or this one where I explain Chinese  logic folding and a new Tau scaling law and   why the future of computing is vertical. Love  you guys and I'm going to see you there. Ciao.
+
